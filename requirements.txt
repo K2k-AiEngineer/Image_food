@@ -1,5 +1,5 @@
 Flask==2.2.3
-numpy==1.24.3
+numpy
 opencv-python==4.7.0.72
 Pillow==9.4.0
 keras==2.12.0
